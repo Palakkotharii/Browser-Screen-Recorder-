@@ -1,0 +1,18 @@
+{
+  "videos": [
+    {
+      "id": "96b789be-58d5-4634-9478-bbb95b36426b",
+      "createdAt": 1768213631154,
+      "views": 1,
+      "completions": 1,
+      "duration": 0
+    },
+    {
+      "id": "782d0567-c0db-4c08-ab9c-6aa0d5326e98",
+      "createdAt": 1768213908215,
+      "views": 3,
+      "completions": 2,
+      "duration": 0
+    }
+  ]
+}
